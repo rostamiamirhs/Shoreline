@@ -1,0 +1,4 @@
+sealand/* filter=lfs diff=lfs merge=lfs -text
+sealand/**. filter=lfs diff=lfs merge=lfs -text
+sealand/** filter=lfs diff=lfs merge=lfs -text
+sea-land-segmentation-coastline-extraction-main/** filter=lfs diff=lfs merge=lfs -text
